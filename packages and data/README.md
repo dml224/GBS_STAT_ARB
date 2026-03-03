@@ -1,6 +1,7 @@
 # Packages and Data
 
 Details about package versions can be found in requirements.txt.
+
 Example raw data can be accessed from ```10as.o1716434```. this is from section E of the paper, looking at different sample magnitudes during each GBS call. This .txt file was an output file from HPC, it helps to highlight how the StatArb strategy is applied in the dynamic trading portfolio construction.
 Example processed data can be accessed from ```r50lossy_wd.csv```. Using Excel functions, one can easily find any statistical data from the columns. 
 
